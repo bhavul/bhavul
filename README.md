@@ -2,7 +2,7 @@
 
 I am a Data Scientist working with Zapr, driving their key NLP and Recommendation Systems projects. I enjoy building products and try to maintain full-stack knowledge. I have a keen interest in ML research and am working on some research ideas myself in NLP domain. The dream is to be one of the biggest contributors to the field of AI and through that generate an enormous impact to shape the future of everyone.  
 
-👋 Open for opportunities in ML domain
+👋 Open for opportunities in ML domain  
 👐 Open for collaboration on projects  
 😊 Happy to speak at meetups or tech conferences  
  
