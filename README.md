@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-I am a Data Scientist working with Zapr, driving their key NLP and Recommendation Systems projects. I enjoy building products and try to maintain full-stack knowledge. I have a keen interest in ML research and am working on some research ideas myself in NLP domain. The dream is to be one of the biggest contributors to the field of AI and through that generate an enormous impact to shape the future of everyone.  
+I am a Data Scientist working with [Zapr](https://www.zapr.in) driving their key NLP and Recommendation Systems projects. I have a keen interest in ML research and am working on some research ideas myself in NLP domain. I also enjoy building products and try to maintain full stack knowledge. The dream is to be one of the biggest contributors to the field of AI and through that generate an enormous impact to shape the future of everyone.    
 
 👋 Open for opportunities in ML domain  
 👐 Open for collaboration on projects  
 😊 Happy to speak at meetups or tech conferences  
  
-Reach me out on [Twitter](http://twitter.com/bhavulgauri) and [LinkedIn](https://www.linkedin.com/in/bhavul/).  
+Reach out to me. I like hoomans. 
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/bhavulgauri.svg?style=social)](http://twitter.com/bhavulgauri)
+[![Linkedin: bhavul](https://img.shields.io/badge/-bhavul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavul/)](https://www.linkedin.com/in/bhavul/)
+
 Carpe Diem.  
 
 ----
