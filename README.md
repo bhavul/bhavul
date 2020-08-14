@@ -11,8 +11,11 @@ Carpe Diem.
  
 Reach me out on [Twitter](http://twitter.com/bhavulgauri) and [LinkedIn](https://www.linkedin.com/in/bhavul/).  
 
+----
 
-[![Bhavul's github stats](https://github-readme-stats.vercel.app/api?username=bhavul)](https://github.com/anuraghazra/github-readme-stats)
+[![Bhavul's github stats](https://github-readme-stats.vercel.app/api?username=bhavul&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavul)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
