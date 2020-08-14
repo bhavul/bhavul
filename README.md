@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-I am a Data Scientist working with Zapr, driving their key NLP and Recommendation Systems projects. I enjoy building products that solve some real world probems and have a strong impact on people's lives. I have a keen interest in ML research and am working on some research ideas myself in NLP domain. The dream is to be one of the biggest contributors to the field of AI and through that generate an enormous impact to shape the future of everyone.  
+I am a Data Scientist working with Zapr, driving their key NLP and Recommendation Systems projects. I enjoy building products and try to maintain full-stack knowledge. I have a keen interest in ML research and am working on some research ideas myself in NLP domain. The dream is to be one of the biggest contributors to the field of AI and through that generate an enormous impact to shape the future of everyone.  
 
-👋 Open for full-time opportunities in ML domain, preferably ones that involve some aspect of research too  
-👐 Open for Collaboration on research or any interesting projects  
-😊 Happy to speak at meetups, tech-confs for knowledge sharing  
-💛 Open Source contributions
-
-Carpe Diem.  
+👋 Open for opportunities in ML domain
+👐 Open for collaboration on projects  
+😊 Happy to speak at meetups or tech conferences  
  
 Reach me out on [Twitter](http://twitter.com/bhavulgauri) and [LinkedIn](https://www.linkedin.com/in/bhavul/).  
+Carpe Diem.  
 
 ----
 
