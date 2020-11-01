@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Data Scientist working with [Zapr](https://www.zapr.in) driving their key NLP and Recommendation Systems projects. I have a keen interest in ML research and am working on some research ideas myself in NLP domain. I also enjoy building products and try to maintain full stack knowledge. The dream is to be one of the biggest contributors to the field of AI and through that generate an enormous impact to shape the future of everyone.    
+I am a Research Scientist (ML/AI) at [Zapr](https://www.zapr.in) driving their key NLP and Recommendation Systems projects. I have a keen interest in ML research and am working on some research ideas myself in NLP domain. I also enjoy building products and try to maintain full stack knowledge. The dream is to be one of the biggest contributors to the field of AI and through that generate an enormous impact to shape the future of everyone.    
 
 👋 Open for opportunities in ML domain  
 👐 Open for collaboration on projects  
