@@ -11,7 +11,8 @@ I have a keen interest in ML research, and I also enjoy building products and tr
 I'm open to new job opportunities, freelance or consulting work, collaborations for research, side projects, or new ideas. I can also coach for cracking FAANG tech interviews. Feel free to reach out to me.
  
 [![Twitter Follow](https://img.shields.io/twitter/follow/bhavulgauri.svg?style=social)](http://twitter.com/bhavulgauri)
-[![Linkedin: bhavul](https://img.shields.io/badge/-bhavul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavul/)](https://www.linkedin.com/in/bhavul/)
+[![Linkedin: bhavul](https://img.shields.io/badge/-bhavul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavul/)](https://www.linkedin.com/in/bhavul/)  
+
 [Portfolio Website](https://bhavul.com)
 
 Carpe Diem.  
