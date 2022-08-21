@@ -1,15 +1,18 @@
 ### Hi there 👋
 
-I am a Research Scientist (ML/AI) at [Zapr](https://www.zapr.in) driving their key NLP and Recommendation Systems projects. I have a keen interest in ML research and am working on some research ideas myself in NLP domain. I also enjoy building products and try to maintain full stack knowledge. The dream is to be one of the biggest contributors to the field of AI and through that generate an enormous impact to shape the future of everyone.    
+I'm an Applied ML Researcher/Engineer currently working for Meta (Facebook) where I am building foundational models to understand users and videos that help get you better recommendations on FB Watch, and IG Reels. Previously I worked as a Research Scientist (ML/AI) at [Zapr](https://www.zapr.in) driving their key NLP and Recommendation Systems projects. 
+
+I have a keen interest in ML research, and I also enjoy building products and try to maintain full stack knowledge. I'm an advocate for Open Source and "AI for Good". Also, I am...
 
 👋 Open for opportunities in ML domain  
 👐 Open for collaboration on projects  
 😊 Happy to speak at meetups or tech conferences  
- 
-Reach out to me. I like hoomans. 
 
+I'm open to new job opportunities, freelance or consulting work, collaborations for research, side projects, or new ideas. I can also coach for cracking FAANG tech interviews. Feel free to reach out to me.
+ 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bhavulgauri.svg?style=social)](http://twitter.com/bhavulgauri)
 [![Linkedin: bhavul](https://img.shields.io/badge/-bhavul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavul/)](https://www.linkedin.com/in/bhavul/)
+[Portfolio Website](https://bhavul.com)
 
 Carpe Diem.  
 
