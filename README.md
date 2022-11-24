@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bhavul. I'm an Applied ML Researcher/Engineer currently working for Meta (Facebook) where I am building foundational models to understand users and videos that help get you better recommendations on FB Watch, and IG Reels. Previously I worked as a Research Scientist (ML/AI) at [Zapr](https://www.zapr.in) driving their key NLP and Recommendation Systems projects. 
+My name is Bhavul. I'm an Applied ML Researcher/Engineer currently working for Meta (Facebook) where I am building foundational models to understand users and videos that help get you better recommendations on Facebook Watch, and Instagram Reels. Previously I worked as a Research Scientist (ML/AI) at [Zapr](https://www.zapr.in) driving their key NLP and Recommendation Systems projects. 
 
 I have a keen interest in ML research, and I also enjoy building products and try to maintain full stack knowledge. I'm an advocate for Open Source and "AI for Good". Also, I am...
 
