@@ -9,7 +9,7 @@ At this point, I'm open to new job opportunities, freelance or consulting work, 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bhavulgauri.svg?style=social)](http://twitter.com/bhavulgauri)
 [![Linkedin: bhavul](https://img.shields.io/badge/-bhavul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavul/)](https://www.linkedin.com/in/bhavul/)  
 
-[Portfolio Website](https://bhavul.com)
+[Portfolio Website](https://bhavul.com)  
 [Technical Blog](https://blog.bhavul.com)
 
 Carpe Diem.  
