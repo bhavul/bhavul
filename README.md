@@ -4,7 +4,7 @@ My name is Bhavul. I'm an Applied ML Researcher/Engineer currently working for M
 
 I like to engage in AI research independently too, and I'm working on a few ideas in the LLM space, feel free to reach out for collaboration. I also enjoy building products, automating things and so I try to maintain some grip on full stack knowledge. I'm an advocate for Open Source and "AI for Good", and enjoy giving talks at conferences or tech meetups.  
 
-At this point, I'm open to new job opportunities, freelance or consulting work, collaborations for research, side projects, or new ideas. I can also coach for cracking FAANG tech interviews. Feel free to reach out to me.
+At this point, I'm open to new job opportunities, freelance or consulting work, collaborations for research, side projects, or new ideas. I can also help you prepare well for cracking FAANG tech interviews. Feel free to reach out to me.
  
 [![Twitter Follow](https://img.shields.io/twitter/follow/bhavulgauri.svg?style=social)](http://twitter.com/bhavulgauri)
 [![Linkedin: bhavul](https://img.shields.io/badge/-bhavul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavul/)](https://www.linkedin.com/in/bhavul/)  
