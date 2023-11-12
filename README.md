@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bhavul. I'm an Applied ML Researcher/Engineer currently working for Meta (Facebook) in their Generative AI team, building on Large Language Models and Latent Diffusion Models to help some products. Prior to that, I built foundational models to understand users for improving Reels and Watch recommendations at Meta. Before Meta, I worked as a Research Scientist (ML Tech Lead) at [Zapr](https://www.zapr.in) driving company's Applied NLP Research efforts, and also their Recommendation System projects.
+My name is Bhavul. I'm an Applied ML Researcher/Engineer currently working for [Meta](https://meta.com/) in their Generative AI team, building on Large Language Models and Latent Diffusion Models to build innovative new products. Before GenAI, I was building foundational models to understand users for improving Reels and Video recommendations. Prior to Meta, I worked as a Research Scientist (ML Tech Lead) at [Zapr](https://www.zapr.in) driving company's Applied NLP Research efforts, and also their Recommendation System projects.
 
 I like to engage in AI research independently too. I'm a core researcher with [Manifold RG](https://manifoldcomputing.com/) and I'm also experimenting with a few ideas in the LLM space. Feel free to reach out for collaboration. I also enjoy building products, automating things and so I try to maintain some grip on full stack knowledge. I'm an advocate for Open Source and "AI for Good", and enjoy giving talks at conferences or tech meetups.  
 
