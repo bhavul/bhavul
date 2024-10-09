@@ -6,10 +6,8 @@ I like to engage in AI research independently too. I'm a core researcher with [M
 
 
 ### Socials 
-- LinkedIn : [![Linkedin: bhavul](https://img.shields.io/badge/-bhavul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavul/)](https://www.linkedin.com/in/bhavul/)
-- X : [![Twitter Follow](https://img.shields.io/twitter/follow/bhavulgauri.svg?style=social)](http://twitter.com/bhavulgauri)
-
-- Almost always outdated [Portfolio Website](https://bhavul.com)  
+- LinkedIn : [![Linkedin: bhavul](https://img.shields.io/badge/-bhavul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavul/)](https://www.linkedin.com/in/bhavul/) [~5k followers]
+- X : [![Twitter Follow](https://img.shields.io/twitter/follow/bhavulgauri.svg?style=social)](http://twitter.com/bhavulgauri) [~1k followers]
 
 Carpe Diem.  
 
