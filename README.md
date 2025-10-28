@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is Bhavul and I enjoy driving innovation through research and engineering. I'm a Senior Research Engineer currently working for [Meta AI](https://meta.com/) in their Meta Superintelligence Lab around ideas of LLM self-improvement and LLM agents for ML Science automation. In recent past, I was supporting fine-tuning Large Language Models and Latent Diffusion Models as well as Prompting science to build innovative new products for Ads. Before GenAI, I was building foundational models to understand users for improving Reels and Video recommendations. Prior to Meta, I worked as a Research Scientist (ML Tech Lead) at [Zapr](https://www.zapr.in) driving Applied NLP Research and also their Recommendation System efforts.
+My name is Bhavul and I enjoy driving innovation through research and engineering. I'm a Senior Research Engineer currently working for FAIR within the [Meta](https://meta.com/) Superintelligence Lab around ideas of LLM self-improvement and LLM agents for ML & Science research automation. In recent past, I was supporting fine-tuning Large Language Models and Latent Diffusion Models as well as Prompting science to build innovative new products for Ads. Before GenAI, I was building foundational models to understand users for improving Reels and Video recommendations. Prior to Meta, I worked as a Research Scientist at [Zapr](https://www.zapr.in) leading Applied NLP Research team and helped build multiple 0->1 producs around  Recommendation System and Chatbot / Voicebot space.
 
-I have supported and engaged in independent AI research too. I was a core researcher with [Manifold RG](https://manifoldcomputing.com/) in 2023-2024.  
-Feel free to reach out for collaboration, we are living in very interesting times, and I'll be happy to contribute to a vision for positive future with AI. I also enjoy automating things and so I try to maintain some grip on full stack knowledge for the same. I'm an advocate for Open Source and "AI for Good", and enjoy giving talks at conferences or tech meetups.  
+I love to support and try to engage in independent AI research too. I was a core researcher with [Manifold RG](https://manifoldcomputing.com/) in 2023-2024 which is an open source distributed research group.  
+Feel free to reach out for collaboration. We are living in very interesting times, and I'll be happy to contribute to a vision for positive future for humanity and world with AI. I'm an advocate for Open Source and "AI for Good", and enjoy giving talks at conferences or tech meetups.  
 
 
 ### Socials 
-- LinkedIn : [![Linkedin: bhavul](https://img.shields.io/badge/-bhavul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavul/)](https://www.linkedin.com/in/bhavul/) [~5k followers]
+- LinkedIn : [![Linkedin: bhavul](https://img.shields.io/badge/-bhavul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavul/)](https://www.linkedin.com/in/bhavul/) [~4.5k followers]
 - X : [![Twitter Follow](https://img.shields.io/twitter/follow/bhavulgauri.svg?style=social)](http://twitter.com/bhavulgauri) [~1k followers]
 
 Carpe Diem.  
