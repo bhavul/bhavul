@@ -14,8 +14,8 @@ Carpe Diem.
 
 ----
 
-[![Bhavul's github stats](https://github-readme-stats.vercel.app/api?username=bhavul&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide=contribs&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavul&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bhavul&show_icons=true&include_all_commits=true&hide=prs&show=prs_merged_percentage,prs_reviewed)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=bhavul&layout=compact&langs_count=6&theme=default_repocard)
 
 
 <!--
