@@ -14,11 +14,13 @@ Carpe Diem.
 
 ----
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bhavul&show_icons=true&include_all_commits=true&hide=prs&show=prs_merged_percentage,prs_reviewed)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bhavul&show_icons=true&include_all_commits=true)
 ![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=bhavul&layout=compact&langs_count=6&theme=default_repocard)
 
 
 <!--
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bhavul&show_icons=true&include_all_commits=true&hide=prs&show=prs_merged_percentage,prs_reviewed)
+
 **bhavul/bhavul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
